@@ -1,0 +1,16 @@
+{
+    "name": "Shade Music Plus",
+    "short_name": "Shade Music",
+    "description": "Shade Music Plus - It's a new way of music!",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#181c25",
+    "theme_color": "#181c25",
+    "icons": [
+        {
+            "src": "music.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
